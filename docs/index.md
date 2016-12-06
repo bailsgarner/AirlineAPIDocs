@@ -8,9 +8,9 @@ The Airline API features functions that benefit a small airline. Within the docu
 
 The following functions will be included within the API; the pending functions are noted with their release date. 
 
-- Flight Information  
-- Airport Information  
 - Airline Information  
+- Airport Information  
+- Flight Information  
 - Pilot Information **(Coming Soon)**
 - Plane Information and Scheduling **(Spring 2017)**
 - Scheduling Flights  **(Spring 2017)**  
