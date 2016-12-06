@@ -17,7 +17,8 @@ The functions of this resource are as follows:
 - **Airport Country:** Provides the country in which the airport is located using its abbreviation.
 - **Airport Region:** Provides a specific region within the country which the airport is located using its abbreviation.
 - **Airport Municipality:** Provides the city in which the airport is located.  
-- **Airport Codes-Local:** Provides the national or local code for the airport. 
+- **Airport Codes-Local:** Provides the national or local code for the airport.  
+
 # Use  
 To use the Airport Resource, a specific URL inputed into the browswer.  
   
