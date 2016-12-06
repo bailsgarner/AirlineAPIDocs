@@ -2,10 +2,17 @@
 layout: default
 ---
 
-# TCO476-new5 Overview
+### **Airline API Overview**
+The Airline API features functions that benefit a small airline. Within the documentation site, each function will be documented with an overview and additional function specifications.  
 
-The **TCO476-new5** project tests the github pages documentation for a github repo.
+The following functions will be included within the API; the pending functions are noted with their release date. 
 
+- Flight Information  
+- Airport Information  
+- Pilot Information  
+- Airline Information  
+- Plane Information and Scheduling **(Spring 2017)**
+- Scheduling Flights  **(Spring 2017)**  
 
 <div class="home">
 
