@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: "Flight Resource"
+title: "Flight Resource"
 permalink: /flightresource/
 ---  
 
