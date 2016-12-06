@@ -5,16 +5,18 @@ permalink: /airlineresource/
 ---  
 # Overview  
 The Airline Resource provides information pertaining to the airline name and owner. This resource is a read-only resource, meaning the resource can only be updated by a database administrator. It cannot be updated through the API itself.
+
 # Functions  
 The information provided by this resource is as follows:  
 - **Airline Name:** The name associated with the airline.  
-- **Airline Owner:** The name of the airline owner.
+- **Airline Owner:** The name of the airline owner.  
+
 # Use  
 The resource can be accessed an used through a URL in the following format:  
   
-  http://server/api/airline/id  
+http://server/api/airline/id  
 
-  The specific server and Airline ID are required to create the URL.  
+The specific server and Airline ID are required to create the URL.  
 
 **Example**  
 The following is an example of how to create the URL input and gathering information from the output.  
