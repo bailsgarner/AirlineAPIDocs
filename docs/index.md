@@ -10,8 +10,8 @@ The following functions will be included within the API; the pending functions a
 
 - Flight Information  
 - Airport Information  
-- Pilot Information  
 - Airline Information  
+- Pilot Information **(Coming Soon)**
 - Plane Information and Scheduling **(Spring 2017)**
 - Scheduling Flights  **(Spring 2017)**  
 
