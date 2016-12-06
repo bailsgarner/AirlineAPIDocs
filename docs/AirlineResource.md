@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pages
 Title: Airline Resource
 permalink: /airlineresource/
 ---  
