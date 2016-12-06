@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Home
+permalink:/home/
 ---
 
 ### **Airline API Overview**
