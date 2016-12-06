@@ -7,7 +7,7 @@ permalink: /flightresource/
 # Overview 
 The Flight Resource provides specific flight information including airports, airline, flight id, start and end time. The information can only be provided in the resource output if it is provided in the flight database. 
 
-# Functions   
+# Output Information Fields  
 The output of this resource includes the following functions:  
 
 - **Airline ID:** The ID of the airline providing the flight. 
