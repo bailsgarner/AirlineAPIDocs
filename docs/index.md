@@ -15,7 +15,7 @@ The following functions will be included within the API; the pending functions a
 - Plane Information and Scheduling **(Spring 2017)**
 - Scheduling Flights  **(Spring 2017)**  
 
-![Airplane] (images/old_vintage_airplane_hd_wallpaper.JPG)
+![Airplane] (AirlineAPIDocs/docs/assets/images/old_vintage_airplane_hd_wallpaper.png)
 
 <div class="home">
 
