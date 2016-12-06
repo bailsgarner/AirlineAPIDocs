@@ -1,7 +1,7 @@
 ---
 layout: page
-Title: "Airport Resource"
-permalink: /airportresource/  
+title: "Airport Resource"
+permalink: /airportresource/
 ---  
 
 # Overview  
