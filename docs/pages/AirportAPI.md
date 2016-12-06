@@ -9,6 +9,7 @@ The Airport Resource allows the user to receive information regarding a specific
   
 # Functions  
 The functions of this resource are as follows:  
+
 - **Airport Name:** Provides the official name of the airport.
 - **Airport Size:** Provides insight to whether the airport is for private or commercial flights.
 - **Airport Longitude and Latitude:** Provides the geographic coordinates of the airport in degrees. 
@@ -20,7 +21,7 @@ The functions of this resource are as follows:
 - **Airport Codes-Local:** Provides the national or local code for the airport.  
 
 # Use  
-To use the Airport Resource, a specific URL inputed into the browswer.  
+To use the Airport Resource, a specific URL inputed into the browser.  
   
 http://server/api/airport/id  
 
@@ -28,7 +29,8 @@ The server and ICAO ID must be inputed to receive an output.
 
 ## Example
 
-For this example, we will use the following information to create our URL:
+For this example, we will use the following information to create our URL:  
+
 **Server:** 54.167.221.72   
 **Airport ID:** KMCO
   
@@ -52,7 +54,8 @@ Using this URL, you receive the following output.
 "local_code": "MCO"  
 } 
 
-From this output we can determine:
+From this output we can determine:  
+
 - **Aiport Size:** Large  
 - **Airport Name:** Orlando International Airport  
 - **Airport Geographic Coordinates:** (28.42939949,-81.30899811)  
