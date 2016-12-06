@@ -1,6 +1,7 @@
 ---
 layout: page
-Title: Airline Resource
+title: Airline Resource
+permalink:/airlineresource/
 ---  
 # Overview  
 The Airline Resource provides information pertaining to the airline name and owner. This resource is a read-only resource, meaning the resource can only be updated by a database administrator. It cannot be updated through the API itself.
