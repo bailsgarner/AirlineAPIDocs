@@ -1,7 +1,7 @@
 ---
 layout: pages
-title: Airline Resource
-permalink:/airlineresource/
+title: "Airline Resource"
+permalink: /airlineresource/
 ---  
 
 # Overview  
