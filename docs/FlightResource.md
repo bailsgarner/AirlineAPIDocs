@@ -12,8 +12,9 @@ The output of this resource includes the following functions:
 - **Flight ID:** The ID of the flight.  
 - **Start Airport:** The airport at which the flight departs from.  
 - **Start Time:** The time at which the flight departs.  
-- **End Airport:** The airport at which the flight arrives.
-- **End Time:** The time at which the flight arrives.
+- **End Airport:** The airport at which the flight arrives.  
+- **End Time:** The time at which the flight arrives.  
+
 # Use 
 The Flight Resource can be accessed by the input of a unique flight URL. The URL uses server information, flight id, and airline ID to provide the output.  
 **URL format:**  http://server/api/flight/id?airlineId=airlineId  
