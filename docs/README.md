@@ -12,7 +12,7 @@ Markdown Tutorial: http://www.markdowntutorial.com/
 **2. Create a new file in the pages folder of the github repo.**  
 
 **3. Format the page using metadata within the github file.**  
-The following metadata should be inserted into the top of the file code and formatted to match the documentation title. To copy the exact code for the metadata below, click on the pencil icon. 
+The following metadata should be inserted into the top of the file code and formatted to match the documentation title. To copy the exact code for the metadata below, click on the pencil icon. Insert your own page title where stated within the metadata.
  ---  
  layout: page  
  title: "page title"  
