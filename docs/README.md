@@ -18,7 +18,7 @@ The following metadata should be inserted into the top of the file code and form
  layout: page  
  title: "page title"  
  permalink: /pagetitle/  
- ---  
+---  
 ```  
 **4. Click commit changes at the bottom of the page.**  
 
