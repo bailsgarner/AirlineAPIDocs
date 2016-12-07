@@ -16,7 +16,8 @@
 title: Airline API 
 email: bailsgarner@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the documentation for the Airline API. The purpose of this documentation is to provide information on API use and give an overview of each individual resource within the API.
+  This is the documentation for the Airline API. The purpose of this documentation is to provide 
+  information on API use and give an overview of each individual resource within the API.
 baseurl: "/AirlineAPIDocs" # the subpath of your site, e.g. /blog
 url: "http://bailsgarner.github.io/AirlineAPIDocs" # the base hostname & protocol for your site
 
