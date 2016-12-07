@@ -13,12 +13,13 @@ Markdown Tutorial: http://www.markdowntutorial.com/
 
 **3. Format the page using metadata within the github file.**  
 The following metadata should be inserted into the top of the file code and formatted to match the documentation title. To copy the exact code for the metadata below, click on the pencil icon. Insert your own page title where stated within the metadata.
- ---  
+``` 
+---  
  layout: page  
  title: "page title"  
  permalink: /pagetitle/  
- --- 
-  
+ ---  
+```  
 **4. Click commit changes at the bottom of the page.**  
 
 **5. To check you site, click settings, scroll down to the git.io link for your site and click on it.**  
